@@ -8,6 +8,8 @@ PS this is WIP. I won't work on this that much if anyone will ask.
 ---
 
 # How To Use
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F1Conan%2Falbion-online-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F1Conan%2Falbion-online-api?ref=badge_shield)
+
 ---
 
 # Functions
@@ -91,3 +93,7 @@ TODO:
 - Add filtering options for the contructor
 
 - ~~Make it emit events that occured occurred after the module is loaded instead of emiting everything at start. (Should be easy. Just busy for now)~~(Done)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F1Conan%2Falbion-online-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F1Conan%2Falbion-online-api?ref=badge_large)
